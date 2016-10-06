@@ -1,0 +1,5 @@
+how are you, ddh!
+this section you have learned three commands:
+git init
+git add <file>
+git commit
